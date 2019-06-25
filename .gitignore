@@ -1,0 +1,6 @@
+~*
+~bkup/
+#*
+__pycache__/
+*.exe
+*.o
